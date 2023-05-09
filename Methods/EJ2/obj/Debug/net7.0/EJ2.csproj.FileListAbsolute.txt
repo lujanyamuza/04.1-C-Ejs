@@ -1,0 +1,15 @@
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\EJ2.csproj.AssemblyReference.cache
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\EJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\EJ2.AssemblyInfoInputs.cache
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\EJ2.AssemblyInfo.cs
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\EJ2.csproj.CoreCompileInputs.cache
+C:\EOI\C-Ejs\Methods\EJ2\bin\Debug\net7.0\EJ2.exe
+C:\EOI\C-Ejs\Methods\EJ2\bin\Debug\net7.0\EJ2.deps.json
+C:\EOI\C-Ejs\Methods\EJ2\bin\Debug\net7.0\EJ2.runtimeconfig.json
+C:\EOI\C-Ejs\Methods\EJ2\bin\Debug\net7.0\EJ2.dll
+C:\EOI\C-Ejs\Methods\EJ2\bin\Debug\net7.0\EJ2.pdb
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\EJ2.dll
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\refint\EJ2.dll
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\EJ2.pdb
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\EJ2.genruntimeconfig.cache
+C:\EOI\C-Ejs\Methods\EJ2\obj\Debug\net7.0\ref\EJ2.dll
