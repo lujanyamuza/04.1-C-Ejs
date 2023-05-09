@@ -1,0 +1,15 @@
+C:\EOI\C#Ejs\Methods\bin\Debug\net7.0\Methods.exe
+C:\EOI\C#Ejs\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\EOI\C#Ejs\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\EOI\C#Ejs\Methods\bin\Debug\net7.0\Methods.dll
+C:\EOI\C#Ejs\Methods\bin\Debug\net7.0\Methods.pdb
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\Methods.csproj.AssemblyReference.cache
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\Methods.dll
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\Methods.pdb
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\EOI\C#Ejs\Methods\obj\Debug\net7.0\ref\Methods.dll
