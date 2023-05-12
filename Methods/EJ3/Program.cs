@@ -5,3 +5,4 @@ int arraysize = int.Parse(Console.ReadLine());
 
 int[] array = new int[arraysize];
 Console.WriteLine("Introduce los números del array: ");
+
